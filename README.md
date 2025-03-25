@@ -1,6 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/kl-E8VQf)
 
-2. a) Investigar el archivo .gitignore ¿Por qué es conveniente incluirlo? ¿Cuándo se debe hacer?¿Cómo configuraría el archivo .gitignore?
+# Punto 2
+a) Investigar el archivo .gitignore ¿Por qué es conveniente incluirlo? ¿Cuándo se debe hacer?¿Cómo configuraría el archivo .gitignore?
 Incluya en su repositorio una regla de cómo ignorar un archivo ignorado.txt
 b) Utilice el archivo readme.md para escribir las respuestas.
 
@@ -22,7 +23,8 @@ Para configurar .gitignore, se debe crear un archivo de texto plano llamado .git
 2. Abrir el archivo y escribir "*.txt"
 3. Guardar el archivo
 
-3. c) Revise los archivos subidos en su repositorio de github. ¿Qué archivos
+# Punto 3
+c) Revise los archivos subidos en su repositorio de github. ¿Qué archivos
 vé?¿Cuál cree que no hace falta que esté?
 
 Veo los archivos .vscode , README.md , tp1_1.c y tp1_1.exe 
