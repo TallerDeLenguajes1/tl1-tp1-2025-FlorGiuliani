@@ -21,3 +21,9 @@ Para configurar .gitignore, se debe crear un archivo de texto plano llamado .git
 1. Crear un archivo de texto y llamarlo .gitignore
 2. Abrir el archivo y escribir "*.txt"
 3. Guardar el archivo
+
+3. c) Revise los archivos subidos en su repositorio de github. ¿Qué archivos
+vé?¿Cuál cree que no hace falta que esté?
+
+Veo los archivos .vscode , README.md , tp1_1.c y tp1_1.exe 
+Considero que no hace falta que esté el archivo .vscode y el .exe
