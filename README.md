@@ -29,3 +29,8 @@ vé?¿Cuál cree que no hace falta que esté?
 
 Veo los archivos .vscode , README.md , tp1_1.c y tp1_1.exe 
 Considero que no hace falta que esté el archivo .vscode y el .exe
+
+# Punto 4
+g) Si resolvió correctamente los apartados 2 y 3 del punto anterior notará que el resultado es el mismo. ¿a qué se debe? ¿Qué obtiene en el punto 4? ¿Es igual a los anteriores? ¿Por qué? Responder en el archivo readme.md
+
+Los resultados son los mismos porque el puntero guarda la dirección de memoria de la variable. El punto 4 en cambio, nos muestra la dirección del puntero, que no es igual a las anteriores porque el puntero ocupa cierto espacio en la memoria que es distinto al espacio que ocupa la variable.
