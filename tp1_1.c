@@ -19,7 +19,7 @@ int main()
     printf("La direccion de memoria almacenada por el puntero: %p \n", punt_num);
     printf("La direccion de memoria de la variable: %p \n", &num);
     printf("La direccion de memoria del puntero: %p \n", &punt_num);
-    printf("El tamanio de memoria utilizado por la variable: %d", sizeof(num));
+    printf("El tamanio de memoria utilizado por la variable: %llu", sizeof(num));
 
     return 0;
 }
